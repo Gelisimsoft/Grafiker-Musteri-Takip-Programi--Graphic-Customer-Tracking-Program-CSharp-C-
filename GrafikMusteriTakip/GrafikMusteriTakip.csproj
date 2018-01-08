@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B3427139-7B66-49D9-92D9-69F197D7180E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GrafikMusteriTakip</RootNamespace>
+    <AssemblyName>GrafikMusteriTakip</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <SupportUrl>http://www.fcyazilim.com</SupportUrl>
+    <TargetCulture>tr-TR</TargetCulture>
+    <ProductName>Fç Grafiker Müşteri Takip</ProductName>
+    <PublisherName>Fç Yazılım Hizmetleri</PublisherName>
+    <SuiteName>Fç Yazılım</SuiteName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>my cases1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Sentinel.v3.5Client" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anamenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anamenu.Designer.cs">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baglanti.cs" />
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gizli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gizli.Designer.cs">
+      <DependentUpon>Gizli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IsEmri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IsEmri.Designer.cs">
+      <DependentUpon>IsEmri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IsEmriGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IsEmriGuncelle.Designer.cs">
+      <DependentUpon>IsEmriGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IsEmriRaporlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IsEmriRaporlama.Designer.cs">
+      <DependentUpon>IsEmriRaporlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kontrol.Designer.cs">
+      <DependentUpon>Kontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MatbaaCari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatbaaCari.Designer.cs">
+      <DependentUpon>MatbaaCari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MatbaaCariGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatbaaCariGuncelle.Designer.cs">
+      <DependentUpon>MatbaaCariGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriCari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriCari.Designer.cs">
+      <DependentUpon>MusteriCari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriGuncelle.Designer.cs">
+      <DependentUpon>MusteriGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personel.Designer.cs">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SifreChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifreChange.Designer.cs">
+      <DependentUpon>SifreChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YapilanIs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YapilanIs.Designer.cs">
+      <DependentUpon>YapilanIs.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anamenu.resx">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anamenu.tr-TR.resx">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gizli.resx">
+      <DependentUpon>Gizli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IsEmri.resx">
+      <DependentUpon>IsEmri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IsEmriGuncelle.resx">
+      <DependentUpon>IsEmriGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IsEmriRaporlama.resx">
+      <DependentUpon>IsEmriRaporlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrol.resx">
+      <DependentUpon>Kontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatbaaCari.resx">
+      <DependentUpon>MatbaaCari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatbaaCariGuncelle.resx">
+      <DependentUpon>MatbaaCariGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriCari.resx">
+      <DependentUpon>MusteriCari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriGuncelle.resx">
+      <DependentUpon>MusteriGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personel.resx">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SifreChange.resx">
+      <DependentUpon>SifreChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YapilanIs.resx">
+      <DependentUpon>YapilanIs.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="my cases1.ico" />
+    <None Include="Resources\1307149892_arrow-refresh.png" />
+    <None Include="Resources\grafikertakip.png" />
+    <None Include="Resources\1307317393_exit.png" />
+    <None Include="Resources\1307317565_wheel.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\about.png" />
+    <None Include="Resources\web_downloads.png" />
+    <None Include="Resources\group_add.png" />
+    <None Include="Resources\group.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\report.png" />
+    <None Include="Resources\toolbox.png" />
+    <None Include="Resources\layout_add.png" />
+    <None Include="Resources\adim.png" />
+    <Content Include="Resources\fcmedya_130_140.png" />
+    <Content Include="Resources\FCY_Logo_135X95.png" />
+    <None Include="Resources\FCY_Logo_150x150.jpg" />
+    <None Include="Resources\gelisimsoftLogo.png" />
+    <Content Include="Resources\guard.png" />
+    <None Include="Resources\Vector_background1.jpg" />
+    <Content Include="security-locked_16.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

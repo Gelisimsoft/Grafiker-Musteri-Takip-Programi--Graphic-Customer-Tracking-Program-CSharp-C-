@@ -1,0 +1,224 @@
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Musteri.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriGuncelle.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+D:\Etüd\Windows Application\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.DemoEkran.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.G.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Musteri.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+D:\Programlar\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.DemoEkran.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.G.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Musteri.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\FTH\Desktop\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCariGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriCari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCariGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriCari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Grafiker Müşteri Programı\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCariGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriCari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe.config
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.About.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MailForm.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCari.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCariGuncelle.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriCari.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe.config
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.About.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCari.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCariGuncelle.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriCari.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csproj.GenerateResource.Cache
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe.config
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.exe
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\bin\Debug\GrafikMusteriTakip.pdb
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\bin\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.About.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Giris.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Gizli.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmri.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Nottxrt.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.IsEmriRaporlama.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Kontrol.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCari.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MatbaaCariGuncelle.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriCari.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.MusteriGuncelle.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Personel.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Properties.Resources.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.SifreChange.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.YapilanIs.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.Anamenu.tr-TR.resources
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.csproj.GenerateResource.Cache
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\tr-TR\GrafikMusteriTakip.resources.dll
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.exe
+C:\Users\fatih.cetinkaya\Downloads\Grafiker Müşteri Programı (Ücretsiz)\GrafikerMusteriTakip\GrafikMusteriTakip\obj\x86\Debug\GrafikMusteriTakip.pdb
